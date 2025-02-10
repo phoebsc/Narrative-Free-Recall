@@ -10,7 +10,7 @@ from IPython.display import display, HTML
 from IPython.core.oinspect import pylight
 from scipy.spatial.distance import correlation
 
-from .constants import EDGECOLOR, GRID_SCALE, RAW_DIR, RECALL_WSIZE
+from .constants import RECALL_WSIZE
 
 
 ########################################
